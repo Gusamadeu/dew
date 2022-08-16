@@ -1,0 +1,56 @@
+#tudo{
+    width: 1200px;
+    float: center;
+    border-right: 180px solid;
+    border-left: 180px solid;
+    border-top: 25px solid;
+    border-color: white;
+}
+header{
+    width: 600px;
+    height: 200px;
+    background-color: blue;
+    float: right;
+    border-left: 10px solid;
+    border-color: white;
+}
+nav{
+    width: 600px;
+    height: 200px;
+    background-color: red;
+    border-left: 10px solid;
+    border-color: white;
+}
+main{
+    width: 1150px;
+    height: 500px;
+    background-color: green;
+    border: 10px;
+    float: right;
+    border: solid 25px;
+    border-color: white;
+}
+section{
+    width: 350px;
+    height: 500px;
+    float: right;
+    border-right: solid 25px;
+    border-color: green;
+}
+.section1{
+    background-color: brown;
+}
+.section2{
+    background-color: blueviolet;
+}
+.section3{
+    background-color: darkmagenta;
+}
+footer{
+    width: 1100px;
+    height: 200px;
+    background-color: yellow;
+    float: right;
+    border-color: white;
+    border-right: solid 50px;
+}
